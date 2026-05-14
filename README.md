@@ -6,7 +6,7 @@ IoT based voice controlled home automation system using NodeMCU ESP8266 and Amaz
 #Overview
 This project is an IoT-based home automation system that allows users to control household appliances using voice commands through Amazon Alexa. The system is developed using NodeMCU ESP8266 and Arduino IDE to enable wireless communication and smart appliance control. The project demonstrates the implementation of voice-enabled automation for improving convenience, energy efficiency, and smart home integration.
 
-# Features
+#Features
 - Voice control using Amazon Alexa
 - Wireless appliance control using Wi-Fi
 - Real-time ON/OFF switching
@@ -31,7 +31,7 @@ This project is an IoT-based home automation system that allows users to control
 - Bulb 
 - Amazon Alexa App
 
-# Working Principle
+#Working Principle
   -The Voice Controlled Home Automation System is designed to automate and control household electrical appliances using voice commands through Amazon Alexa. The system combines Internet of Things (IoT) technology, wireless communication, and embedded systems to provide a smart and efficient home automation solution.
 
   -The core component of the system is the NodeMCU ESP8266 microcontroller, which contains an inbuilt Wi-Fi module for internet connectivity. The NodeMCU acts as the central controller of the entire system and is programmed using Arduino IDE.
